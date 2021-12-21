@@ -1,3 +1,9 @@
+# Para executar diretamente do container no hub.docker
+
+```sh
+$ docker run grlgmrs/codeeducation
+```
+
 # Desenvolvimento
 
 ```sh
